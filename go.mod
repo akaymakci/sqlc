@@ -15,7 +15,7 @@ require (
 	github.com/jinzhu/inflection v1.0.0
 	github.com/lib/pq v1.10.9
 	github.com/pganalyze/pg_query_go/v4 v4.2.4-0.20231205012101-7463430c7b73
-	github.com/pingcap/tidb/pkg/parser v0.0.0-20231103154709-4f00ece106b1
+	github.com/pingcap/tidb v1.1.0-beta.0.20240122215850-8e1f5e4ad8ef
 	github.com/riza-io/grpc-go v0.2.0
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/pflag v1.0.5
